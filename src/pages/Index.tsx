@@ -576,9 +576,7 @@ const Index = () => {
       <header className="bg-white shadow-sm border-b">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            <div className="text-xl font-bold text-gray-900">
-              Проект "Коммуникации"
-            </div>
+            <div className="text-xl font-bold text-gray-900">Проект "Архитектура принятия решений"</div>
             <nav className="flex space-x-1">
               {navigation.map((item) => (
                 <Button
