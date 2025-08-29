@@ -514,7 +514,7 @@ const Index = () => {
                   <Icon name="Mail" size={20} className="text-blue-500" />
                   <div>
                     <div className="font-semibold">Email</div>
-                    <div className="text-gray-600">info@communications-project.ru</div>
+                    <div className="text-gray-600">a.88888888@rambler.ru</div>
                   </div>
                 </div>
                 
