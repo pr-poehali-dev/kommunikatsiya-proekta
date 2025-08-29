@@ -502,10 +502,7 @@ const Index = () => {
       <div className="max-w-2xl mx-auto">
         <Card>
           <CardHeader>
-            <CardTitle className="flex items-center gap-2 justify-center">
-              <Icon name="Building2" size={24} />
-              Проект для АНО Россия
-            </CardTitle>
+            <CardTitle className="flex items-center gap-2 justify-center">Проект для  России</CardTitle>
           </CardHeader>
           <CardContent className="space-y-6">
             <div className="grid md:grid-cols-2 gap-6">
