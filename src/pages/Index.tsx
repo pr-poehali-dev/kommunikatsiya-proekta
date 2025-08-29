@@ -540,7 +540,7 @@ const Index = () => {
                   <Icon name="Globe" size={20} className="text-purple-500" />
                   <div>
                     <div className="font-semibold">Сайт</div>
-                    <div className="text-gray-600">www.ano-russia.ru</div>
+                    <div className="text-gray-600">https://kommunikatsiya-proekta--preview.poehali.dev/</div>
                   </div>
                 </div>
               </div>
